@@ -1,3 +1,3 @@
 # RubyBasics
 
-Basic Programs in Ruby --- Day1
+Basic Programs in Ruby
